@@ -13,7 +13,7 @@ I started with the schematics. I know it's a mess, but it's my first own PCB
 
 **Total time spent: 2 hours**
 
-# September 11: Created the board layout
+# September 12: Created the board layout
 I arranged the components as compact as possible and routed the pcb
 
 **Total time spent: 3 hours**
