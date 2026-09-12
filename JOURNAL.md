@@ -7,7 +7,10 @@ created_at: "2026-09-11"
 ---
 
 # September 11: Created the schematics
-I started with the schematics. I know it's a mess, but it's my first own PCB
+I started with the schematics. I know it's a mess, but it's my first own PCB.
+I know I should work with Power Symbols....
+
+Used a selfmade footprint and symbol for the USB-A connector which plugs directly into the USB-A port
 
 ![Schematics](img/schematics.png)
 
