@@ -23,3 +23,7 @@ I arranged the components as compact as possible and routed the pcb
 
 ![PCB Layout](img/pcb_layout.png)
 ![PCB](img/pcb.png)
+
+
+# September 13: Rerouted without freerouting
+Needed to re-rout to comply with hack club rules
