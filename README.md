@@ -6,8 +6,8 @@ I wanted to learn SMD soldering and PCB creation. That's why I came up with this
 The PCB comes with two LEDs. One Power indicator and one that can be programmed. One programmable button.
 It has pads that can be bridged to enter bootloader mode.
 
-![img](img/pcb.png)
-
+![PCB front](img/pcb_front.png)
+![PCB back](img/pcb_back.png)
 
 
 # Usage
@@ -58,11 +58,12 @@ USB Settings: USER CODE w/ 148B USB (based on your use case you might want to us
 
 
 # BOM
-2x 100nF Capacitors 0805 
+2x 100nF Capacitors 0805               
 2x LED 0805 (One Power LED (e.g. Green) + one Status LED (e.g. Orange))
 2x 330 Ohm Resistors 0805
 1x 1.5kOhm Resistor 0805
 1x Tac Switch SKQGABE010
-1x CH552E
-
+1x CH552E (about 50 cents)
+I cant give you prices for the other components because they are between 0.1 cents and 2 cents based on the amount ordered.
+Overall a pretty cheap project
 
