@@ -67,3 +67,4 @@ USB Settings: USER CODE w/ 148B USB (based on your use case you might want to us
 I cant give you prices for the other components because they are between 0.1 cents and 2 cents based on the amount ordered.
 Overall a pretty cheap project
 
+Ordering the PCB on JLCPCB costs $4.20
