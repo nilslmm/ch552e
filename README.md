@@ -71,7 +71,7 @@ USB Settings: USER CODE w/ 148B USB (based on your use case you might want to us
 | 1x | LED | Orange |  0805 | 1.79 EUR | https://de.aliexpress.com/item/1005006142309480.html 
 | 2x | Resistor | 330Ohm |  0805 | 2.99 EUR | https://de.aliexpress.com/item/1005011779163101.html
 | 1x | Resistor | 1.5kOhm |  0805 | 2.89 EUR | https://de.aliexpress.com/item/1005011779163101.html
-| 1x | Tac Switch | SKQGABE010 | / | 2.59 EUR | https://de.aliexpress.com/item/1005006142309480.html 
-|:---|:---:|:---:|:---:|:---:|---:|
+| 1x | Tac Switch | SKQGABE010 | / | 1.24 EUR | https://www.lcsc.com/product-detail/C115351.html
+| 1x | Chip | CH552E | / | 0.57 EUR | https://www.lcsc.com/product-detail/C967938.html
 
 Ordering the PCB on JLCPCB costs $4.20
