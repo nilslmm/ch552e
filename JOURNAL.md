@@ -16,17 +16,9 @@ Used a selfmade footprint and symbol for the USB-A connector which plugs directl
 
 **Total time spent: 2 hours**
 
-# September 12: Created the board layout
-I arranged the components as compact as possible and routed the pcb
-
-**Total time spent: 3 hours**
-
-![PCB Layout](img/pcb_layout.png)
-![PCB](img/pcb.png)
-
-
 # September 13: Rerouted without freerouting
 Needed to re-rout to comply with hack club rules.
 I'm pretty happy with the routing. Even thought it's my first PCB.
 
 ![PCB Layout](img/pcb_layout.png)
+**Total time spent: 3 hours**
