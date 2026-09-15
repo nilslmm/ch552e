@@ -60,3 +60,4 @@ USB Settings: USER CODE w/ 148B USB (based on your use case you might want to us
 | 1x | Chip | CH552E | / | 0.57 EUR | 1 | https://www.lcsc.com/product-detail/C967938.html
 | 1x| PCB | / | / | 5.50 EUR | 10 | https://jlcpcb.com/
 
+Total costs: 9.97 EUR
