@@ -58,5 +58,5 @@ USB Settings: USER CODE w/ 148B USB (based on your use case you might want to us
 | 1x | Resistor | 1.5kOhm |  0805 | 0.32 EUR | 100 | https://www.lcsc.com/product-detail/C2907216.html
 | 1x | Tac Switch | SKQGABE010 | / | 1.24 EUR | 10 | https://www.lcsc.com/product-detail/C115351.html
 | 1x | Chip | CH552E | / | 0.57 EUR | 1 | https://www.lcsc.com/product-detail/C967938.html
-| 1x| PCB | / | / | 4.20 EUR | 1 | https://jlcpcb.com/
+| 1x| PCB | / | / | 5.50 EUR | 10 | https://jlcpcb.com/
 
