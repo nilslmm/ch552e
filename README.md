@@ -49,7 +49,7 @@ USB Settings: USER CODE w/ 148B USB (based on your use case you might want to us
 # BOM
 
 
-| Amount | Component | Value | Size | Price | Package Size | Link
+| Amount | Component | Value | Size | Price | Package Size | Link |
 |:---|:---:|:---:|:---:|:---:|---:|
 | 2x | Capacitor | 100nF |  0805 | 0.39 EUR | 20 | https://www.lcsc.com/product-detail/C49678.html
 | 1x | LED | Green |  0805 | 0.59 EUR | 100 | https://www.lcsc.com/product-detail/C19273151.html
