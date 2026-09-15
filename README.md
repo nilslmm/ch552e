@@ -49,14 +49,14 @@ USB Settings: USER CODE w/ 148B USB (based on your use case you might want to us
 # BOM
 
 
-| Amount | Component | Value | Size | Price | Link
+| Amount | Component | Value | Size | Price | Package Size | Link
 |:---|:---:|:---:|:---:|:---:|---:|
-| 2x | Capacitor | 100nF |  0805 | 1.35 EUR | https://de.aliexpress.com/item/1005006142309480.html 
-| 1x | LED | Green |  0805 | 1.59 EUR | https://de.aliexpress.com/item/1005009128722843.htm
-| 1x | LED | Orange |  0805 | 1.79 EUR | https://de.aliexpress.com/item/1005006142309480.html 
-| 2x | Resistor | 330Ohm |  0805 | 2.99 EUR | https://de.aliexpress.com/item/1005011779163101.html
-| 1x | Resistor | 1.5kOhm |  0805 | 2.89 EUR | https://de.aliexpress.com/item/1005011779163101.html
-| 1x | Tac Switch | SKQGABE010 | / | 1.24 EUR | https://www.lcsc.com/product-detail/C115351.html
+| 2x | Capacitor | 100nF |  0805 | 0.39 EUR | 20 | https://www.lcsc.com/product-detail/C49678.html
+| 1x | LED | Green |  0805 | 0.59 EUR | 100 | https://www.lcsc.com/product-detail/C19273151.html
+| 1x | LED | Orange |  0805 | 0.82 EUR | 50 | https://www.lcsc.com/product-detail/C28310440.html
+| 2x | Resistor | 330Ohm |  0805 | 0.54 EUR | 100 | https://www.lcsc.com/product-detail/C17630.html
+| 1x | Resistor | 1.5kOhm |  0805 | 0.32 EUR | 100 | https://www.lcsc.com/product-detail/C2907216.html
+| 1x | Tac Switch | SKQGABE010 | / | 1.24 EUR | 10 | https://www.lcsc.com/product-detail/C115351.html
 | 1x | Chip | CH552E | / | 0.57 EUR | https://www.lcsc.com/product-detail/C967938.html
 | 1x| PCB | / | / | 4.20 EUR | https://jlcpcb.com/
 
