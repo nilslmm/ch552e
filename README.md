@@ -22,30 +22,19 @@ After that you open the board manager and install
 ```c
 #include <USBHID.h>
 
-const int ledPin = P1_4;  // Updated for LED on Pin P1.4
+const int statusLedPin = P1_4; 
 
 void setup() {
-  pinMode(ledPin, OUTPUT);
-  USBInit();  // Initialize USB HID keyboard stack
+  pinMode(statusLedPin, OUTPUT);
+  USBInit();  
   
-  // Wait 2 seconds on power-up so OS detects USB device before typing
+  // Delay for HID detection
   delay(2000);
 
-  // Turn LED on to indicate typing sequence start
-  digitalWrite(ledPin, HIGH);
-  
-  // Type out the passphrase string
-  Keyboard_print("password123ch552");
-  
-  // Press Enter key to submit
-  Keyboard_write(KEY_ENTER);
-  
-  delay(1000);  // Keep LED on for 1 second after typing
-  
-  // Turn LED off
-  digitalWrite(ledPin, LOW);
+  digitalWrite(statusLedPin, HIGH);
+  Keyboard_print("supersecret");
+  digitalWrite(statusLedPin, LOW);
 }
-
 void loop() {
 }
 ```
@@ -69,5 +58,5 @@ USB Settings: USER CODE w/ 148B USB (based on your use case you might want to us
 | 1x | Resistor | 1.5kOhm |  0805 | 2.89 EUR | https://de.aliexpress.com/item/1005011779163101.html
 | 1x | Tac Switch | SKQGABE010 | / | 1.24 EUR | https://www.lcsc.com/product-detail/C115351.html
 | 1x | Chip | CH552E | / | 0.57 EUR | https://www.lcsc.com/product-detail/C967938.html
-| 1x| PCB | / | / 4.20 EUR | https://jlcpcb.com/
+| 1x| PCB | / | / | 4.20 EUR | https://jlcpcb.com/
 
