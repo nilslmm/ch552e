@@ -58,12 +58,8 @@ USB Settings: USER CODE w/ 148B USB (based on your use case you might want to us
 
 
 # BOM
-2x 100nF Capacitors 0805               
-2x LED 0805 (One Power LED (e.g. Green) + one Status LED (e.g. Orange))
-2x 330 Ohm Resistors 0805
-1x 1.5kOhm Resistor 0805
-1x Tac Switch SKQGABE010
-1x CH552E (about 50 cents)
+
+
 | Amount | Component | Value | Size | Price | Link
 |:---|:---:|:---:|:---:|:---:|---:|
 | 2x | Capacitor | 100nF |  0805 | 1.35 EUR | https://de.aliexpress.com/item/1005006142309480.html 
@@ -73,5 +69,5 @@ USB Settings: USER CODE w/ 148B USB (based on your use case you might want to us
 | 1x | Resistor | 1.5kOhm |  0805 | 2.89 EUR | https://de.aliexpress.com/item/1005011779163101.html
 | 1x | Tac Switch | SKQGABE010 | / | 1.24 EUR | https://www.lcsc.com/product-detail/C115351.html
 | 1x | Chip | CH552E | / | 0.57 EUR | https://www.lcsc.com/product-detail/C967938.html
+| 1x| PCB | / | / 4.20 EUR | https://jlcpcb.com/
 
-Ordering the PCB on JLCPCB costs $4.20
