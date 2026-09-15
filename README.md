@@ -64,7 +64,14 @@ USB Settings: USER CODE w/ 148B USB (based on your use case you might want to us
 1x 1.5kOhm Resistor 0805
 1x Tac Switch SKQGABE010
 1x CH552E (about 50 cents)
-I cant give you prices for the other components because they are between 0.1 cents and 2 cents based on the amount ordered.
-Overall a pretty cheap project
+| Amount | Component | Value | Size | Price | Link
+|:---|:---:|:---:|:---:|:---:|---:|
+| 2x | Capacitor | 100nF |  0805 | 1.35 EUR | https://de.aliexpress.com/item/1005006142309480.html 
+| 1x | LED | Green |  0805 | 1.59 EUR | https://de.aliexpress.com/item/1005009128722843.htm
+| 1x | LED | Orange |  0805 | 1.79 EUR | https://de.aliexpress.com/item/1005006142309480.html 
+| 2x | Resistor | 330Ohm |  0805 | 2.99 EUR | https://de.aliexpress.com/item/1005011779163101.html
+| 1x | Resistor | 1.5kOhm |  0805 | 2.89 EUR | https://de.aliexpress.com/item/1005011779163101.html
+| 1x | Tac Switch | SKQGABE010 | / | 2.59 EUR | https://de.aliexpress.com/item/1005006142309480.html 
+|:---|:---:|:---:|:---:|:---:|---:|
 
 Ordering the PCB on JLCPCB costs $4.20
